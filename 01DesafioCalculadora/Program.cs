@@ -46,34 +46,34 @@
 Console.ReadKey();
 
 
-static double LerNumero()
+double LerNumero()
 {
     Console.WriteLine("Digite um número:");
     return double.Parse(Console.ReadLine());
 }
 
-static double Somar()
+double Somar()
 {
     double num1 = LerNumero();
     double num2 = LerNumero();
     return num1 + num2;
 }
 
-static double Subtrair()
+double Subtrair()
 {
     double num1 = LerNumero();
     double num2 = LerNumero();
     return num1 - num2;
 }
 
-static double Multiplicar()
+double Multiplicar()
 {
     double num1 = LerNumero();
     double num2 = LerNumero();
     return num1 * num2;
 }
 
-static ResultadoDivisao Dividir()
+ResultadoDivisao Dividir()
 {
     double num1 = LerNumero();
     double num2 = LerNumero();
@@ -94,7 +94,7 @@ static ResultadoDivisao Dividir()
     return resultadoDivisao;
 }
 
-static double Potenciacao()
+double Potenciacao()
 {
     double baseNum = LerNumero();
     double expoente = LerNumero();
