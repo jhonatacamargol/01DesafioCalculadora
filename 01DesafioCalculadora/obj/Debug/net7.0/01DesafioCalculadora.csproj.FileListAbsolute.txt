@@ -1,0 +1,15 @@
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\bin\Debug\net7.0\01DesafioCalculadora.exe
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\bin\Debug\net7.0\01DesafioCalculadora.deps.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\bin\Debug\net7.0\01DesafioCalculadora.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\bin\Debug\net7.0\01DesafioCalculadora.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\bin\Debug\net7.0\01DesafioCalculadora.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\refint\01DesafioCalculadora.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\01DesafioCalculadora.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\01DesafioCalculadora\01DesafioCalculadora\obj\Debug\net7.0\ref\01DesafioCalculadora.dll
